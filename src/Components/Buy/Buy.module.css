@@ -1,0 +1,54 @@
+.buy{
+    display: flex;
+background-color: black;
+}
+.right{
+    margin-left: 2rem;
+    padding-top: 70px;
+}
+.title{
+    max-width: 625px;
+    font-family: 'Archangelsk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 62px;
+    line-height: 63px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+.items{
+    margin-bottom: 55px;
+}
+.item{
+    margin-bottom: 1.2rem;
+}
+.items li{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+.items li img{
+    margin-right: 0.6rem;
+}
+.subtitle{
+    margin-bottom: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #52BEDC;
+}
+.platformItems{
+    margin-top: 25px;
+}
+.platformInner{
+    display: flex;
+    gap: 79px;
+    margin-bottom: 55px;
+}

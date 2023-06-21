@@ -1,0 +1,40 @@
+.change{
+    padding-top: 4.4rem;
+}
+.title{
+    margin-bottom: 1.6rem;
+    font-family: 'Archangelsk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.9rem;
+    line-height: 3.9rem;
+    color: #000000;
+}
+.text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.1rem;
+    line-height: 2.1rem;
+    color: #777777;
+}
+.link{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.1rem;
+    line-height: 2.1rem;
+    color: #52BEDC;
+}
+.content{
+    margin-top: 4.4rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+.left{
+    margin-right: 2rem;
+}
+.leftImg{
+    margin-bottom: 2rem;
+}
